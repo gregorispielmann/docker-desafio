@@ -8,14 +8,12 @@ After install **Docker** in your machine run the command below:
 
 ```
 $ docker run gregorispielmann/codeeducation
-
 ```
 
 The result expected is a message at bash like this:
 
 ```
 $ Code.education Rocks!
-
 ```
 
 This image is available at Docker Hub: [https://hub.docker.com/r/gregorispielmann/codeeducation](https://hub.docker.com/r/gregorispielmann/codeeducation)
