@@ -1,4 +1,4 @@
-# Full Cycle Challenge
+# Full Cycle Docker Challenge #1
 
 This repository is a response to **Docker challenge** of Full Cycle 2.0
 
